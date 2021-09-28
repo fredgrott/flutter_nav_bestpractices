@@ -1,0 +1,6 @@
+{
+  "appTitle": "navrail_adaptive",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
