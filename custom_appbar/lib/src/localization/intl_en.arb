@@ -1,0 +1,6 @@
+{
+  "appTitle": "custom_appbar",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
