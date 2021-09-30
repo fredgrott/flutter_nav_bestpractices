@@ -1,0 +1,6 @@
+{
+  "appTitle": "shaped_drawer",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
