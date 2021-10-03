@@ -1,0 +1,6 @@
+{
+  "appTitle": "brand_tool_one",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}

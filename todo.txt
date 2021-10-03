@@ -1,0 +1,11 @@
+Todo
+
+Was wrong, there is one use case of Rail nav.
+When using SliverAppBar due to brand value 
+of sliverappbar would make sense to have
+rail nav slim menu on left side in  
+tablet app.
+
+So I need an example in 
+the SliverAppBar form with 
+Rail nav in tablet form factor.
