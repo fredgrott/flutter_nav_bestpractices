@@ -1,6 +1,8 @@
 // Copyright 2021 Fredrick Allan Grott. All rights reserved.
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
+//
+// Heavily modified from the adaptive components example
 
 import 'package:adaptive_scaffold/src/presentation/widgets/adaptive_navigation_scaffold.dart';
 import 'package:adaptive_scaffold/src/presentation/widgets/cardsliverappbar.dart';

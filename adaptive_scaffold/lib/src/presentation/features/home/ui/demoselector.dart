@@ -3,7 +3,8 @@
 // license that can be found in the LICENSE file.
 
 import 'package:adaptive_scaffold/src/presentation/features/scaffold_one/ui/scaffoldone.dart';
-import 'package:adaptive_scaffold/src/presentation/features/scaffold_two/ui/scaffoldtwo.dart';
+import 'package:adaptive_scaffold/src/presentation/features/scaffold_two/ui/scaffold_two.dart';
+
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
